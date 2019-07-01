@@ -6,7 +6,7 @@ console[_$_d9ef[1]](_$_d9ef[0]);Number[_$_d9ef[3]][_$_d9ef[2]]= function(x)
 }
 ;var i=true;
 var t=0;
-var zaderjka=1000;
+var phog45=1000;
 setInterval(function()
 {
 	if($(_$_d9ef[10])[_$_d9ef[9]](_$_d9ef[8])!= _$_d9ef[11])
